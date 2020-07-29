@@ -1,8 +1,8 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
-    "versioncode": 3920,
+    "app_id": "net.moodlemoot.sidu",
+    "appname": "Sidu Mobile",
+    "desktopappname": "Sidu Desktop",
+    "versioncode": 39200,
     "versionname": "3.9.2",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
@@ -62,12 +62,12 @@
     "wsextservice": "local_mobile",
     "demo_sites": {
         "student": {
-            "url": "https:\/\/school.moodledemo.net",
+            "url": "",
             "username": "student",
             "password": "moodle"
         },
         "teacher": {
-            "url": "https:\/\/school.moodledemo.net",
+            "url": "",
             "username": "teacher",
             "password": "moodle"
         }
@@ -78,7 +78,7 @@
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "https://github.com/mohammadfitrah/moodleapp/blob/sidu/src/config.json",
     "sitename": "",
     "multisitesdisplay": "",
     "onlyallowlistedsites": false,
